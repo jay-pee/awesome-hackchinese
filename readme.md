@@ -1,7 +1,7 @@
 # Awesome List: Hack Chinese [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A curated list of awesome resources for hacking the Chinese language.
-> APIs, packages, libraries, open source software are listed here which
+> APIs, packages, libraries, open source software, etc. are listed here which
 > you can use for programming stuff around the topic of learning Chinese.
 
 RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
@@ -15,14 +15,10 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 - [Datasets](#datasets)
   - [Dictionaries Basis](#dictionaries-basis)
   - [Dictionaries made on from Basis](#dictionaries-made-on-from-basis)
-  - [Misc](#misc)
-- [APIs](#apis)
-- [Open Source Apps](#open-source-apps)
-- [Anki](#anki)
-  - [Anki Addons](#anki-addons)
-  - [Anki Decks](#anki-decks)
-- [Command Line Tools and Scripts](#command-line-tools-and-scripts)
-- [Dictionaries based on Open Data](#dictionaries-based-on-open-data)
+  - [Other Datasets](#other-datasets)
+- [Miscellaneous](#miscellaneous)
+- [Example Projects](#example-projects)
+- [TODO List](#todo-list)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -43,13 +39,14 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
   - [Visualisation](https://chanind.github.io/hanzi-writer-data/#25105)
   - Based on Hanzi Writer Data (see Datasets)
 - [cn-grammar-matcher](https://github.com/chanind/cn-grammar-matcher)[A tool to find grammar patterns in Chinese text.]
+- [HanziLookupJS](https://github.com/gugray/HanziLookupJS) (Free, open-source Chinese handwriting recognition in Javascript.)
 
 ### Ruby
 
 - [chinese_pinyin](https://github.com/flyerhzm/chinese_pinyin) Translate chinese hanzi to pinyin.
   - https://www.skishore.me/makemeahanzi/
   - https://www.skishore.me/inkstone/
-- [HanziLookupJS](https://github.com/gugray/HanziLookupJS) (Free, open-source Chinese handwriting recognition in Javascript.)
+- ...
 
 ## Datasets
 
@@ -64,7 +61,7 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 - [makemeahanzi dataset](https://github.com/skishore/makemeahanzi) (Free, open-source Chinese character data, based on Unihan and cjklib)
 - ...
 
-### Misc
+### Other Datasets
 
 - [Recursive Radical Packing Language](https://github.com/LingDong-/rrpl)
 - [Hanzi Writer Data](https://github.com/chanind/hanzi-writer-data) (Data For the Hanzi Writer)
@@ -72,58 +69,40 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 - [audio-cmn](https://github.com/hugolpz/audio-cmn) (Chinese (zh-cnm) opendata audio files for 8,596 hsk words and 1,707 syllabs. )
 - [Chinese-Grammar](https://github.com/infinyte7/Chinese-Grammar) (Chinese Grammar List from [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/))
 
-## APIs
-
-- [Chinese Character Web API](http://ccdb.hemiola.com/)
-- ...
-
-## Open Source Apps
-
-- [Inkstone](https://github.com/skishore/inkstone) (Learn Chinese on the go - no Internet connection required!)
-- ...
-
-## Anki
-
-Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. 
-
-https://github.com/badlydrawnrob/anki
-
-### Anki Addons
-
-- [Chinese Support Redux](https://github.com/luoliyan/chinese-support-redux) (Anki add-on providing support for Chinese study)
-- [AwesomeTTS](https://github.com/AwesomeTTS/awesometts-anki-addon) (text-to-speech add-on for Anki )
-
-### Anki Decks
-
-- [Anki-Chinese-Grammar-Practice](https://github.com/infinyte7/Anki-Chinese-Grammar-Practice) (Practice Chinese language grammar)
-- [Anki-xiehanzi](https://github.com/infinyte7/Anki-xiehanzi) (Learn, read, write and practice Mandarin by drawing strokes in anki and ankidroid with audio of HSK1 to HSK6 characters.)
-
-## Command Line Tools and Scripts
+## Miscellaneous
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl/) (Download (Chinese) Videos and scrape the subtitles)
   - ...
 - [chinese-wordlist-extractor](https://github.com/stooone/chinese-wordlist-extractor) (Script to make word frequency list (CSV) from a text.)
-
-## Dictionaries based on Open Data
-
-- [Make Me a Hanzi Demo](https://makemeahanzi.herokuapp.com/#/codepoint/20320)
-- [mdbg](https://www.mdbg.net/chinese/dictionary)
-- [zdic](http://www.zdic.net/)
-
-<!-- ## X-Callback URL Schemes
-
-- Anki 
-- Pleco -->
-
-## Misc
-
 - [文言 wenyan-lang](https://github.com/wenyan-lang/wenyan) (A programming language for the ancient Chinese. )
 - [{Shan, Shui}*](https://github.com/LingDong-/shan-shui-inf) (Procedurally-generated vector-format infinitely-scrolling Chinese landscape for the browser.)
 - [edges2calligraphy](https://github.com/LingDong-/edges2calligraphy) (Using pix2pix to convert scribbles to Chinese calligraphy)
 
-# TODO List
+## Example Projects
+
+A short list of projects, that are utilizing this Libraries, Datasets, etc.
+
+- [Chinese Character Web API](http://ccdb.hemiola.com/)
+- [Inkstone](https://github.com/skishore/inkstone) (Learn Chinese on the go - no Internet connection required!)
+- Anki Add-Ons and Decks
+  - [Chinese Support Redux](https://github.com/luoliyan/chinese-support-redux) (Anki add-on providing support for Chinese study)
+  - [Anki-Chinese-Grammar-Practice](https://github.com/infinyte7/Anki-Chinese-Grammar-Practice) (Practice Chinese language grammar)
+  - [Anki-xiehanzi](https://github.com/infinyte7/Anki-xiehanzi) (Learn, read, write and practice Mandarin by drawing strokes in anki and ankidroid with audio of HSK1 to HSK6 characters.)
+  - [Anki Chinese Radicals Deck+](https://github.com/jay-pee/Anki-Chinese-Radicals-Deck-Plus) Automatically generated Anki Flashcards Deck to learn the Chinese Radicals
+- Dictionaries:
+  - [Make Me a Hanzi Demo](https://makemeahanzi.herokuapp.com/#/codepoint/20320)
+  - [mdbg](https://www.mdbg.net/chinese/dictionary)
+  - [zdic](http://www.zdic.net/)
+
+<!-- ## X-Callback URL Schemes
+- [AwesomeTTS](https://github.com/AwesomeTTS/awesometts-anki-addon) (text-to-speech add-on for Anki )
+- Anki 
+- Pleco -->
+
+## TODO List
 
 - [ ] (Better) descriptions of the Titles and Subtitles
+- [ ] More
 - [ ] Add X-Callback
 
 ## Contribute
