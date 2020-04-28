@@ -52,9 +52,10 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 
 ### Dictionaries Basis
 
-- [HanDeDict](https://github.com/gugray/HanDeDict) (HanDeDict is a collaboratively edited, open-source Chinese-German dictionary.)
+- [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict) (complete downloadable Chinese to English dictionary with pronunciation in pinyin for the Chinese characters.)
 - [Unihan](https://unicode.org/charts/unihan.html)
 - [CJK Decomposition Data](https://github.com/cburgmer/cjklib) (Han character library for CJKV languages)
+- [HanDeDict](https://github.com/gugray/HanDeDict) (HanDeDict is a collaboratively edited, open-source Chinese-German dictionary.)
 
 ### Dictionaries made on from Basis
 
