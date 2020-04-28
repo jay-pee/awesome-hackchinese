@@ -29,6 +29,7 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 ## Libraries/Packages
 
 ### Python
+
 - [wordfreq](https://github.com/LuminosoInsight/wordfreq) (wordfreq is a Python library for looking up the frequencies of words in many languages, based on many sources of data.)
 - [xpinyin](https://github.com/lxneng/xpinyin) (translate chinese hanzi to pinyin by python)
 - [hanziconv](https://github.com/berniey/hanziconv)
@@ -36,6 +37,7 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 - [jieba](https://github.com/fxsjy/jieba) (Chinese text segmentation: built to be the best Python Chinese word segmentation module.)
 
 ### Javascript
+
 - [HanziJS](https://github.com/nieldlr/hanzi) (HanziJS is a Chinese character and NLP module for Chinese language processing for Node.js. It is primarily written to help provide a framework for Chinese language learners to explore Chinese.)
 - [Hanzi Writer](https://hanziwriter.org/) (Hanzi Writer is a free and open-source javascript library for Chinese character stroke order animations and stroke order practice quizzes. Works with both simplified and traditional characters.)
   - [Visualisation](https://chanind.github.io/hanzi-writer-data/#25105)
@@ -43,8 +45,8 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 - [cn-grammar-matcher](https://github.com/chanind/cn-grammar-matcher)[A tool to find grammar patterns in Chinese text.]
 
 ### Ruby
-- [chinese_pinyin](https://github.com/flyerhzm/chinese_pinyin) Translate chinese hanzi to pinyin.
 
+- [chinese_pinyin](https://github.com/flyerhzm/chinese_pinyin) Translate chinese hanzi to pinyin.
   - https://www.skishore.me/makemeahanzi/
   - https://www.skishore.me/inkstone/
 - [HanziLookupJS](https://github.com/gugray/HanziLookupJS) (Free, open-source Chinese handwriting recognition in Javascript.)
@@ -55,14 +57,16 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 
 - [HanDeDict](https://github.com/gugray/HanDeDict) (HanDeDict is a collaboratively edited, open-source Chinese-German dictionary.)
 - [Unihan](https://unicode.org/charts/unihan.html)
-- [cjklib](https://github.com/cburgmer/cjklib) (Han character library for CJKV languages)
+- [CJK Decomposition Data](https://github.com/cburgmer/cjklib) (Han character library for CJKV languages)
 
 ### Dictionaries made on from Basis
 
 - [makemeahanzi dataset](https://github.com/skishore/makemeahanzi) (Free, open-source Chinese character data, based on Unihan and cjklib)
+- ...
 
 ### Misc
 
+- [Recursive Radical Packing Language](https://github.com/LingDong-/rrpl)
 - [Hanzi Writer Data](https://github.com/chanind/hanzi-writer-data) (Data For the Hanzi Writer)
 - [C0S960](https://github.com/thunlp/COS960) (COS960 is a Chinese word similarity dataset of 960 word pairs.)
 - [audio-cmn](https://github.com/hugolpz/audio-cmn) (Chinese (zh-cnm) opendata audio files for 8,596 hsk words and 1,707 syllabs. )
@@ -70,12 +74,17 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 
 ## APIs
 
+- [Chinese Character Web API](http://ccdb.hemiola.com/)
+- ...
+
 ## Open Source Apps
 
 - [Inkstone](https://github.com/skishore/inkstone) (Learn Chinese on the go - no Internet connection required!)
-- 
+- ...
 
 ## Anki
+
+Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. 
 
 https://github.com/badlydrawnrob/anki
 
@@ -106,11 +115,17 @@ https://github.com/badlydrawnrob/anki
 - Anki 
 - Pleco -->
 
-# TODO 
+## Misc
 
+- [文言 wenyan-lang](https://github.com/wenyan-lang/wenyan) (A programming language for the ancient Chinese. )
+- [{Shan, Shui}*](https://github.com/LingDong-/shan-shui-inf) (Procedurally-generated vector-format infinitely-scrolling Chinese landscape for the browser.)
+- [edges2calligraphy](https://github.com/LingDong-/edges2calligraphy) (Using pix2pix to convert scribbles to Chinese calligraphy)
+
+# TODO List
 
 - [ ] (Better) descriptions of the Titles and Subtitles
 - [ ] Add X-Callback
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
