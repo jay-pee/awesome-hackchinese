@@ -73,6 +73,10 @@ https://github.com/clem109/hsk-vocabulary -->
 - [C0S960](https://github.com/thunlp/COS960) (COS960 is a Chinese word similarity dataset of 960 word pairs.)
 - [audio-cmn](https://github.com/hugolpz/audio-cmn) (Chinese (zh-cnm) opendata audio files for 8,596 hsk words and 1,707 syllabs. )
 - [Chinese-Grammar](https://github.com/infinyte7/Chinese-Grammar) (Chinese Grammar List from [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/))
+- [Stanford CoreNLP](https://wordnet.princeton.edu/) (Stanford CoreNLP provides a set of human language technology tools.)
+- [Chinese text computing](https://lingua.mtsu.edu/chinese-computing/) (provides character frequency lists generated from a large corpus of Chinese texts collected from online sources.)
+<!-- - [Wordnet](https://wordnet.princeton.edu/) -->
+
 
 ## Miscellaneous
 
