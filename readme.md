@@ -60,10 +60,14 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 ### Dictionaries made on from Basis
 
 - [makemeahanzi dataset](https://github.com/skishore/makemeahanzi) (Free, open-source Chinese character data, based on Unihan and cjklib)
-- ...
+- [hanyu-shuping-kaoshi](https://github.com/gigacool/hanyu-shuiping-kaoshi) (Word list of all HSK levels)
+
+<!-- https://github.com/sawcordwell/HSK-Vocab
+https://github.com/clem109/hsk-vocabulary -->
 
 ### Other Datasets
 
+- [Tatoeba](https://github.com/Tatoeba/tatoeba2) (a multilingual sentence/translation database.)
 - [Recursive Radical Packing Language](https://github.com/LingDong-/rrpl)
 - [Hanzi Writer Data](https://github.com/chanind/hanzi-writer-data) (Data For the Hanzi Writer)
 - [C0S960](https://github.com/thunlp/COS960) (COS960 is a Chinese word similarity dataset of 960 word pairs.)
