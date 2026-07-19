@@ -102,6 +102,11 @@ A short list of projects, that are utilizing this Libraries, Datasets, etc.
   - [Make Me a Hanzi Demo](https://makemeahanzi.herokuapp.com/#/codepoint/20320)
   - [mdbg](https://www.mdbg.net/chinese/dictionary)
   - [zdic](http://www.zdic.net/)
+- Free Browser Games & Tools (no install, no login):
+  - [Mandarin Flashcards — HSK 1–3](https://ordinarymantrying.com/tools/mandarin-flashcards.html) (400 HSK words, spaced repetition, pinyin popup, story reader · [GitHub](https://github.com/daligao/mandarin-flashcards))
+  - [Chinese Antonyms Game — 反义词连连看](https://ordinarymantrying.com/tools/chinese-antonyms.html) (Match 380 opposite-word pairs, 3 HSK-aligned levels, pinyin + English hints · [GitHub](https://github.com/daligao/chinese-antonyms-game))
+  - [Chinese Measure Words Game — 量词分类](https://ordinarymantrying.com/tools/chinese-measure-words.html) (Sort nouns into correct 量词 buckets, 8 progressive levels · [GitHub](https://github.com/daligao/chinese-measure-words-game))
+  - [HSK Text Analyzer — 中文难度检测](https://ordinarymantrying.com/tools/hsk-text-analyzer.html) (Paste any Chinese text — every word color-coded by HSK 1–6 level, comprehension %, pinyin + English on hover, export unknown words · ~1,500-word dictionary, no login)
 
 <!-- ## X-Callback URL Schemes
 - [AwesomeTTS](https://github.com/AwesomeTTS/awesometts-anki-addon) (text-to-speech add-on for Anki )
