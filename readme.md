@@ -61,6 +61,7 @@ RIGHT NOW THE LIST IS WORK IN PROGRESS. PULL REQUESTS ARE HIGHLY APPRICHIATED!
 
 - [makemeahanzi dataset](https://github.com/skishore/makemeahanzi) (Free, open-source Chinese character data, based on Unihan and cjklib)
 - [hanyu-shuping-kaoshi](https://github.com/gigacool/hanyu-shuiping-kaoshi) (Word list of all HSK levels)
+- [hsk-chinese-uzbek-russian](https://huggingface.co/datasets/Maqsudjonpolatov/hsk-chinese-uzbek-russian) (8,296 Chinese words with Uzbek and Russian meanings, pinyin, traditional form and HSK level. CC BY 4.0)
 
 <!-- https://github.com/sawcordwell/HSK-Vocab
 https://github.com/clem109/hsk-vocabulary -->
